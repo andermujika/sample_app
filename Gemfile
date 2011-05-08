@@ -13,3 +13,5 @@ end
 group :test do
    gem 'rspec'
 end
+
+gem 'webrat' #sin esto no funciona correctamente el rspec
