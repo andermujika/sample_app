@@ -1,13 +1,12 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.0.7'
-
-
+gem 'rails'
 gem 'sqlite3'
 
 
 group :development do
    gem 'rspec-rails'
+   gem 'annotate-models'
 end
 
 group :test do
