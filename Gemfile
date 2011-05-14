@@ -13,4 +13,5 @@ group :test do
   gem 'rspec'
   gem 'webrat' #sin esto no funciona correctamente el rspec
   gem 'rspec-rails'
+  gem 'factory_girl_rails'
 end
